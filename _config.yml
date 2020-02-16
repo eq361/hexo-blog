@@ -5,10 +5,10 @@
 # Site
 title: 宋骏的个人博客
 subtitle: ''
-description: ''
-keywords:
+description: 'Java、大数据、Python学习笔记博客'
+keywords: '个人博客,Java学习,大数据学习,Python学习'
 author: 宋骏
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -95,7 +95,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
